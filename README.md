@@ -1,1 +1,2 @@
-# indian-sign-language-recognition-using-.CNN
+# indian-sign-language
+-using-CNN
